@@ -1,4 +1,4 @@
-# FM---T1-C12---EVEN
+# FM-T1-C12-EVEN
 EXP NO: 4 GENERATION AND DETECTION OF FM
 
 AIM: To write a program for Frequency Modulation and Demodulation using SCILAB and to observe and measure the frequency deviation and the modulation index of FM.
@@ -31,7 +31,7 @@ PROCEDURE
 
 MODEL GRAPH:
 
-image
+
 Program
 
 Output Waveform
